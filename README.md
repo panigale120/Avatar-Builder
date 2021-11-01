@@ -1,3 +1,4 @@
-![01](https://user-images.githubusercontent.com/79817633/139680728-836c72b7-0547-48bf-a2db-e04be96d25b7.png)
+![02](https://user-images.githubusercontent.com/79817633/139682574-8fbcc185-4031-48fd-b45b-ce068794261b.png)
+
 # Avatar Builder x 0120
 Autumn 2021 Edition
